@@ -1,0 +1,19 @@
+#test case 2
+5
+##start
+start 1 9
+##end
+end 2 4
+a 4 2
+b 3 5
+c 4 5
+d 3 6
+e 5 2
+start-a
+start-b
+b-c
+c-d
+a-e
+end-d
+end-e
+#anorther test if multi threading
