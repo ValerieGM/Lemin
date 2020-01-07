@@ -1,8 +1,0 @@
-#test case 2
-3
-##start
-start 1 9
-##end
-end 5 3
-start-end
-##does it wait

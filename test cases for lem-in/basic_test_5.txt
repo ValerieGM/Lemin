@@ -1,7 +1,0 @@
-#missing things test
-1
-##start
-start 5 2
-end 5 5
-#no end comment line
-start-end
