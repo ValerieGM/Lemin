@@ -28,4 +28,4 @@ This project is meant to be a coded ant farm manager a.k.a: "Hex" simulator. An 
         * ./lemin < resources/maps/(text file)
 
 ### Example
-!(/resources/lemin.png)
+![](/resources/lemin.png)
